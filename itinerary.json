@@ -69,7 +69,96 @@
         "Terminal 1 Guesthouse",
         "https://www.google.com/maps/search/Terminal+1+Guesthouse+Naples+Airport"
       ]
-    ]
+    ],
+    "packingFull": {
+      "מסמכים וכסף": [
+        "דרכונים לכל המשפחה",
+        "כרטיסי טיסה / Boarding passes",
+        "ביטוח נסיעות",
+        "אישורי הזמנות למלונות ודירה",
+        "אישורי סיורים: סיור ימי, שנורקלינג, Jeranto",
+        "כרטיסי אשראי + מעט מזומן",
+        "200 אירו במזומן ל-Jeranto",
+        "צילומי דרכונים בענן ובטלפון"
+      ],
+      "ביגוד": [
+        "בגדים קלים ל-10 ימים",
+        "בגד יפה לערב אחד או שניים",
+        "סווטשירט קל לטיסות / מעבורות",
+        "נעליים נוחות להליכה",
+        "סנדלים / כפכפים",
+        "כובעים לכל אחד",
+        "לבנים וגרביים",
+        "פיג׳מות"
+      ],
+      "ים ובריכה": [
+        "בגדי ים כפולים לכל אחד",
+        "מגבות חוף דקות",
+        "נעלי מים",
+        "משקפות / שנורקלים אם יש",
+        "שקיות לבגדים רטובים",
+        "נרתיק עמיד למים לטלפון",
+        "תיק ים קטן"
+      ],
+      "בריאות והגנה": [
+        "קרם הגנה SPF גבוה",
+        "אפטר-סאן / אלוורה",
+        "תרופות קבועות",
+        "משככי כאבים לילדים ומבוגרים",
+        "פלסטרים",
+        "תרופה נגד בחילות לנסיעות/מעבורות אם צריך",
+        "דוחה יתושים",
+        "אלכוג׳ל / מגבונים"
+      ],
+      "טכנולוגיה": [
+        "מטענים לטלפונים",
+        "מטען נייד",
+        "מתאם חשמל אירופאי",
+        "אוזניות",
+        "כבלי USB נוספים",
+        "AirTags / תגיות למזוודות אם יש"
+      ],
+      "לילדות ולנסיעות": [
+        "ספר / טאבלט / משחק קטן",
+        "אוזניות לילדות",
+        "נשנושים יבשים לטיסות ומעברים",
+        "בקבוק מים רב פעמי לכל אחת",
+        "מחברת קטנה לאיסוף חוויות ומילים באיטלקית"
+      ],
+      "דירה וכביסה": [
+        "קפסולות כביסה קטנות אם רוצים",
+        "שקית כביסה",
+        "שקיות ziplock",
+        "מגבונים",
+        "תרמיל יום מתקפל"
+      ]
+    },
+    "appEnhancements": {
+      "italianLearning": "expanded-v10",
+      "interactiveExercises": [
+        "flashcards",
+        "quick-choice",
+        "sentence-order",
+        "fill-blank",
+        "italian-speech"
+      ],
+      "musicArtists": [
+        "Annalisa",
+        "The Kolors",
+        "Pinguini Tattici Nucleari",
+        "Marco Mengoni",
+        "Mahmood",
+        "Angelina Mango",
+        "Ultimo",
+        "Elodie",
+        "ALFA"
+      ],
+      "musicSources": [
+        "https://www.italiamia.com/culture/music/top-italian-songs-and-artists-summer-2026-complete-playlist-guide/",
+        "https://www.youtube.com/playlist?list=PLy_wKxVmWb4aVmvrij9J92HnbSxkDHgXN",
+        "https://music.youtube.com/playlist?list=PL-_HauNKjNPsX9F0_shOvEIG-wsgDx1qm"
+      ]
+    }
   },
   {
     "id": "d13",
