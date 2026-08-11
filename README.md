@@ -1,2 +1,1 @@
-Italy Trip 2026 Travel Companion v7
-כולל דף לימוד איטלקית מלא עם ביטויים, השמעה, כרטיסיות ותרגול.
+Italy Trip 2026 v8 - added full packing list, interactive Italian exercises, more words, and contemporary Italian music artist suggestions.
