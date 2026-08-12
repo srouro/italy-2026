@@ -1,1 +1,16 @@
-{"name": "טיול איטליה 2026 - משפחת סרור", "short_name": "Italy 2026", "start_url": "./index.html", "display": "standalone", "background_color": "#f6fbfb", "theme_color": "#0f766e", "dir": "rtl", "lang": "he"}
+{
+  "name": "טיול איטליה 2026 - משפחת סרור",
+  "short_name": "Italy 2026",
+  "description": "מלווה טיול איטליה 2026 - לו״ז, מפות, אריזה ולימוד איטלקית",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6fbfb",
+  "theme_color": "#0f766e",
+  "dir": "rtl",
+  "lang": "he",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
