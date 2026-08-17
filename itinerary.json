@@ -495,13 +495,13 @@
         "לתאם חזור אם יוצאים בשעה עמוסה"
       ],
       "schedule": [
+        
         [
-          "09:00",
-          "להגיע מוקדם ל-Negombo"
-        ],
-        [
-          "יום מלא",
-          "בריכות תרמיות, חוף San Montano וצהריים במקום"
+          "בוקר במלון",
+          "שינה ובריכה"
+        ],[
+          "15:00",
+          "להגיע ל-Negombo"
         ],
         [
           "ערב",
@@ -601,16 +601,16 @@
       "date": "17/8",
       "weekday": "שני",
       "area": "איסקיה",
-      "title": "La Mortella + שנורקלינג ב-Forio",
+      "title": "La Mortella + שנורקלינג ב-Ischia Ponte",
       "lodging": "Grifo Hotel",
       "address": "Via Francesco Calise 45, Forio; snorkeling from Forio",
       "mapQuery": "Giardini La Mortella Ischia",
       "hero": "גנים ירוקים בבוקר וים אחר הצהריים",
       "familyScore": "4.7/5",
       "transport": [
-        "מונית/אוטובוס ל-La Mortella",
-        "מעבר ל-Forio לצהריים ולשנורקלינג",
-        "לוודא נקודת יציאה מדויקת"
+        "מונית/אוטובוס ל-Ischia Ponte",
+        "טיול בעיר וארוחת לצהריים",
+        "ולשנורקלינג"
       ],
       "schedule": [
         [
@@ -619,11 +619,11 @@
         ],
         [
           "צהריים",
-          "ארוחה קלה ב-Forio"
+          "ארוחה קלה ב-Ischia Ponte"
         ],
         [
           "13:30-16:45",
-          "שנורקלינג מ-Forio"
+          "שנורקלינג מ-Ischia Ponte"
         ]
       ],
       "bring": [
@@ -715,7 +715,7 @@
       "date": "18/8",
       "weekday": "שלישי",
       "area": "סורנטו",
-      "title": "מעבר מאיסקיה לסורנטו",
+      "title": "מעבר מאיסקיה לסורנטו וסדנת בישול
       "lodging": "Appartamento Le Zagare",
       "address": "Via Parsano 14, Sorrento",
       "mapQuery": "Via Parsano 14 Sorrento",
